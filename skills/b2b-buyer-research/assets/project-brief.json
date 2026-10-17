@@ -1,0 +1,22 @@
+{
+  "project_name": "",
+  "product_or_service": "",
+  "transaction_model": "",
+  "transaction_unit": "",
+  "target_buyer_models": [],
+  "target_markets": [],
+  "excluded_markets": [],
+  "geography_definition": "buyer legal entity / role work location / sales market must be distinguished",
+  "minimum_quantity": null,
+  "quantity_unit": "",
+  "quantity_scope": "",
+  "target_core_contacts": null,
+  "qualification_rules": [],
+  "excluded_signals": [],
+  "source_freshness_rules": {},
+  "existing_sources": [],
+  "required_output_schema": "",
+  "permitted_actions": ["read public business sources", "create local research artifacts"],
+  "external_mutations_authorized": false,
+  "research_state": "not_started"
+}

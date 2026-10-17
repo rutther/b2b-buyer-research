@@ -1,0 +1,4 @@
+interface:
+  display_name: "跨行业B2B买方研究"
+  short_description: "研究企业采购路径、关键角色与联系证据，并验证可执行的广告受众假设"
+  default_prompt: "使用 $b2b-buyer-research，根据我的产品与市场研究企业买家、采购角色和联系方式，并交付带来源与缺口的表格。"

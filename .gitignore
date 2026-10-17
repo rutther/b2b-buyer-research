@@ -1,0 +1,14 @@
+work/
+private/
+archive/
+raw-data/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+*.zip
+*.xlsx
+*.sqlite*
+validation-local.json
